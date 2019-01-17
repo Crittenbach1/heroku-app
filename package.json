@@ -1,7 +1,9 @@
 {
   "name": "heroku-app",
-  "engines": "6.3.1",
   "version": "1.0.0",
+  "engines": {
+    "node": "6.3.1"
+  },
   "description": "This README would normally document whatever steps are necessary to get the application up and running.",
   "main": "index.js",
   "directories": {
